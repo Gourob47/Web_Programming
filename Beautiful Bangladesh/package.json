@@ -1,0 +1,24 @@
+{
+  "name": "Express3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "nodemon": "nodemon src/app.js -e js,pug"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.1.0",
+    "express": "^4.17.1",
+    "jQuery": "^1.7.4",
+    "lightbox2": "^2.11.3",
+    "mongoose": "^5.13.5",
+    "pug": "^3.0.2",
+    "sweetalert2": "^11.1.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
